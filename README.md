@@ -19,6 +19,7 @@
 - [rust-based-os-comp2024/2024-spring-scheduling-2.md at main · LearningOS/rust-based-os-comp2024 (github.com)](https://github.com/LearningOS/rust-based-os-comp2024/blob/main/2024-spring-scheduling-2.md) 
 
 个人日志
+- [2024 May](我的日志/202405.md)
 - [2024 April](我的日志/202404.md) 
 
 
