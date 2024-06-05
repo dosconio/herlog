@@ -2,7 +2,7 @@
 # 2024年春夏季操作系统训练营
 
 项目地址
-- 练习项目 [dosconio/mcca-rcore (github.com)](https://github.com/dosconio/mcca-rcore) 
+- 练习项目 <del>[dosconio/mcca-rcore (github.com)](https://github.com/dosconio/mcca-rcore) </del> 由于涉及作业答案就不公开了
 - 实用项目 [README (mecocoa.org)](https://www.mecocoa.org/) 
 
 个人状况
@@ -21,5 +21,6 @@
 个人日志
 - [2024 May](我的日志/202405.md)
 - [2024 April](我的日志/202404.md) 
+- [2024 June](我的日志/202406.md) 
 
 
